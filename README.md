@@ -9,10 +9,13 @@ Code: https://github.com/CoRAL-ASU/Agentic_ADAF
 ## Citation
 
 ```bibtex
-@article{chakraborty2026dealog,
-  title   = {DeALOG: Decentralized Multi-Agents Log-Mediated Reasoning Framework},
-  author  = {Chakraborty, Abhijit and Shekhar, Ashish Raj and Agarwal, Shiven and Gupta, Vivek},
-  journal = {arXiv preprint arXiv:2602.00996},
-  year    = {2026}
+@misc{chakraborty2026dealogdecentralizedmultiagentslogmediated,
+      title={DeALOG: Decentralized Multi-Agents Log-Mediated Reasoning Framework},
+      author={Abhijit Chakraborty and Ashish Raj Shekhar and Shiven Agarwal and Vivek Gupta},
+      year={2026},
+      eprint={2602.00996},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.00996},
 }
 ```
